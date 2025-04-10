@@ -1,8 +1,8 @@
-# 🎯 Productivity Tracker App - Beginner's Guide
+#  Productivity Tracker App - Beginner's Guide
 
 ![App Preview](https://via.placeholder.com/1200x400?text=Clean+Modern+Interface+with+Progress+Tracking)
 
-## 📋 Table of Contents
+##  Table of Contents
 1. [Getting Started](#-getting-started)
 2. [Feature Walkthrough](#-feature-walkthrough)
 3. [Firebase Setup](#-firebase-setup)
@@ -11,7 +11,7 @@
 6. [Contributing](#-contributing)
 7. [License](#-license)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### System Requirements
 - Node.js 16+ 
@@ -34,7 +34,7 @@ npm run android  # For Android
 npm run ios      # For iOS (requires macOS)
 ```
 
-## ✨ Feature Walkthrough
+##  Feature Walkthrough
 
 ### Streak Management
 - **Creating Streaks**: Tap ➕ > Select type > Set daily reminder
@@ -43,7 +43,7 @@ npm run ios      # For iOS (requires macOS)
 
 ![Streak Creation Flow](https://via.placeholder.com/600x400?text=Step-by-Step+Creation+Process)
 
-## 🔥 Firebase Setup
+##  Firebase Setup
 
 1. **Create Firebase Project**:
    - Go to [Firebase Console](https://console.firebase.google.com)
@@ -67,7 +67,7 @@ const firebaseConfig = {
 };
 ```
 
-## 📱 Daily Usage
+##  Daily Usage
 
 ### Basic Operations
 1. **Mark Daily Completion**: Tap calendar date
@@ -88,16 +88,10 @@ const firebaseConfig = {
 | Firebase errors | Verify config values match console |
 | Missing modules | Reinstall dependencies with `npm ci` |
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/improvement`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/improvement`)
 5. Open Pull Request
-
-## 📜 License
-MIT License - See [LICENSE](LICENSE) for full details
-
----
-📧 Support: support@productivitytracker.app | 📱 Twitter: @ProdTrackerApp
