@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style type="text/css">
+      @font-face {
+        font-family: 'PixelFont';
+        src: url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%22%20height%3D%22100%22%3E%3C%2Fsvg%3E') format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+    </style>
+  </defs>
+  <g id="font-glyphs">
+    <!-- Pixel font glyphs -->
+    <path d="M10,10 h10 v10 h-10 z" fill="currentColor"/>
+    <path d="M30,10 h10 v10 h-10 z" fill="currentColor"/>
+    <path d="M50,10 h10 v10 h-10 z" fill="currentColor"/>
+  </g>
+</svg>
