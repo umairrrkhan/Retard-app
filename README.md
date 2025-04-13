@@ -1,13 +1,13 @@
-# 📱 Face Analysis App
+#  Face Analysis App
 
-## 🤖 Features
+##  Features
 - Real-time face detection using device camera
 - Local processing (no data sent to servers)
 - Fun scoring system based on facial metrics
 - Firebase ad integration
 - Privacy-focused design
 
-## 🛠️ Installation
+##  Installation
 1. Install Expo CLI:
 ```
 npm install --global expo-cli
@@ -22,7 +22,7 @@ npm install
 npx expo start
 ```
 
-## 📸 Usage
+##  Usage
 1. Grant camera permissions
 2. Position face in frame
 3. Get instant analysis:
@@ -30,7 +30,7 @@ npx expo start
    - Landmark detection
    - Expression metrics
 
-## 🔥 Firebase Setup
+##  Firebase Setup
 1. Create project at [Firebase Console](https://console.firebase.google.com)
 2. Update `app.json`:
 ```json
@@ -45,7 +45,7 @@ npx expo start
 }
 ```
 
-## 🤔 Troubleshooting
+##  Troubleshooting
 - Camera not working: Check device permissions
 - Blurry analysis: Ensure good lighting
 - Ad issues: Verify Firebase configuration
